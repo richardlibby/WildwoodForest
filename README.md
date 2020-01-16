@@ -1,4 +1,5 @@
 # WildwoodForest
+# Initial thoughts on the project
 
 # This is a project to create a Raspberry PI that has features from the following wishlist:
 # -Pi-hole (DNS and ad blocker) https://www.youtube.com/watch?v=inmBhY3HgQE or https://www.youtube.com/watch?v=ytlAN18X5d0
